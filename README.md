@@ -32,7 +32,7 @@ Currently pursuing MBA from **National University**, Bangladesh.
 
 ## 📊 GitHub Stats
 
-![Masud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Masud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdMasudRana&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/MdMasudRana)
 
